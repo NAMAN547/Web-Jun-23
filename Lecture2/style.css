@@ -1,0 +1,48 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+main{
+
+    background-color: azure;
+    padding: 10px;
+
+}
+
+.card{
+
+    background-color: yellow;
+    width: fit-content;
+    height: 250px;
+    border-radius: 20px;
+
+}
+/* 
+.card > img{
+
+    width: 100%
+    
+} */
+
+input[type="text"]{
+
+    background-color: aquamarine;
+    border: 5px solid black;
+
+}
+
+
+
+#footer a{
+
+    height:200px;
+    text-decoration: underline;
+
+}
+
+
